@@ -1,0 +1,34 @@
+Pseudocode
+
+
+
+-----------------
+Front-end
+
+Bootstrap to create 3 serviceable html pages 
+
+-----------------
+Create package.json
+APIs: install http
+express.js
+
+-----------------
+Set up server
+(url, http, port, server)
+
+-----------------
+Routing:
+
+Three cases:
+Root
+View Tables
+Reserve Table
+
+-----------------
+Database:
+Store user inputted data using SQL
+Connect server to database
+
+
+
+
